@@ -27,8 +27,8 @@ The script uses the requests library. Install it using pip:
 
 bash
 Copy code
-pip install requests
+```pip install requests```
 Get your API key:
 
 Sign up at OpenWeatherMap to get a free API key.
-Replace your_api_key in the script with your actual API key.
+Replace ``your_api_key`` in the script with your actual API key.
