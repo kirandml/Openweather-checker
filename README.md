@@ -20,7 +20,7 @@ This is a simple Python script that fetches and displays the current weather for
    ```bash
    git clone https://github.com/yourusername/Openweather-checker.git
    cd Openweather-checke
-   python weather.py
+   python Weather.py
    Enter the city name: London
    The temperature in London is 15°C with clear sky.
 
